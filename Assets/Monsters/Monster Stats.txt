@@ -1,0 +1,5 @@
+Angry Minotaur - Attack: 1000 Defense: 2500
+Fiery Stone - Attack: 1500 Defense: 2000
+Red Boar - Attack: 500 Defense: 2500 
+Red Dragon - Attack: 2000 Defense: 2000
+Soul Eater Dragon - Attack: 2500 Defense: 2000
